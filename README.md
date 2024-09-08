@@ -3,6 +3,6 @@ Used libraries like Geopy and Folium to perform geospatial analysis and performe
 
 • Performed data preprocessing and transformation with pandas to evaluate delivery and rating metrics over time.<br />
 • Visualized Seaborn scatterplot to perform bivariate analysis between cost and rating to derive a relationship
-between the two./
+between the two.<br />
 • Utilized the Nominatim geocoder against restaurant instances, to generate folium heatmaps to study cuisine and
-budget distribution across various locations./
+budget distribution across various locations.<br />
